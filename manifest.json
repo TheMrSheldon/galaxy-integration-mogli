@@ -1,0 +1,11 @@
+{
+    "name": "Mogli plugin",
+    "platform": "test",
+	"guid": "63f0fe57-0cae-4cb6-8204-869332ee757e",
+    "version": "0.1",
+    "description": "Mogli integration",
+    "author": "Name",
+    "email": "author@email.com",
+    "url": "https://github.com/TheMrSheldon/galaxy-integration-mogli",
+    "script": "plugin.py"
+}
